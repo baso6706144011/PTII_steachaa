@@ -1,7 +1,7 @@
 <?php
 	include("koneksi.php");
 	$id = $_POST['id'];
-	$nip = $_POST['nip'];	
+	$nip = $_POST['nidhkASdjkp'];	
 	$nama = $_POST['nama'];
 	$gelar = $_POST['gelar'];
 	$status = $_POST['status'];
